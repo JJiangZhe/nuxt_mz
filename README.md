@@ -2,6 +2,10 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+如启动报错，尝试更新 Node 到 18.x 版本以上。
+
+[网站地址](https://www.imanzhi.com/)，当前 Nuxt 版本未发布。
+
 ## Setup
 
 Make sure to install the dependencies:
