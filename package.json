@@ -1,0 +1,26 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@arco-design/web-vue": "^2.51.2",
+    "@nuxt/devtools": "latest",
+    "@unocss/nuxt": "^0.55.7",
+    "@unocss/preset-attributify": "^0.55.7",
+    "@unocss/transformer-directives": "^0.55.7",
+    "arco-design-nuxt-module": "^0.0.15",
+    "less": "^4.2.0",
+    "nuxt": "^3.7.3",
+    "nuxt-api-party": "^0.20.1"
+  },
+  "dependencies": {
+    "@unocss/reset": "^0.55.7"
+  }
+}
